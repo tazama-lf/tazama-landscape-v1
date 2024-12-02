@@ -140,46 +140,46 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: Tazama Project Participants
-        rows: 4
-        width: 650
-        height: 150
-        top: 210
+        rows: 3
+        width: 375
+        height: 125
+        top: 0
         left: 0
         color: rgb(19,105,73)
         fit_width: true
       - type: HorizontalCategory
         category: Tazama Project Adopters
-        rows: 4
-        width: 650
-        height: 150
-        top: 210
+        rows: 1
+        width: 225
+        height: 125
+        top: 150
         left: 0
         color: rgb(165,9,77)
         fit_width: true       
       - type: HorizontalCategory
         category: Tazama Project Funders
-        rows: 4
-        width: 650
-        height: 150
-        top: 210
+        rows: 1
+        width: 125
+        height: 125
+        top: 300
         left: 0
         color: rgb(47,116,190)
         fit_width: true
       - type: HorizontalCategory
         category: Related Organizations
-        rows: 4
-        width: 650
-        height: 150
-        top: 210
+        rows: 1
+        width: 225
+        height: 125
+        top: 450
         left: 0
         color: rgb(0,0,0)
         fit_width: true              
       # this is a landscape info box; good idea to keep this one
       - type: LandscapeInfo
-        width: 310
+        width: 345
         height: 150
-        top: 210
-        left: 665
+        top: 450
+        left: 250
         children:
           - type: text
             text: |
